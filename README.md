@@ -1,4 +1,4 @@
-# vue-cli
+https://kravchenkoweb.github.io/Stock-trader/ 
 
 > A Vue.js project
 
